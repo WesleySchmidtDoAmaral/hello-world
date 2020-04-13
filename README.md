@@ -8,7 +8,9 @@ Skills-code:
 Skills-ML:
 - sklearn
   * Linear, Ridge, Lasso, ElasticNet, SMV
-  * Decision Tree, RandonForest, ExtreTree
+  * KNN
+  * K-means (clustering)
+  * Decision Tree, RandonForest, ExtreTree (ensemble)
   * AdaBoost, GradientBoosting
   * Bagging
 - Keras
